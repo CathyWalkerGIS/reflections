@@ -13,3 +13,7 @@ when one file is related in some way to another file. Making it so changes in
 one file could make an impact on another file, therefore you'd want to make a 
 commit with both of these files together. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Put files in the staging area that make logical sense of being part of one change, even
+if that change involves multiple files.
