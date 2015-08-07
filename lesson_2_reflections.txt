@@ -22,3 +22,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 Trying new things and not having to worry about messing up the code. Making multiple versions of the application
 or website, for say different languages or environments.
+
+How do the diagrams help you visualize the branch structure?
+Allows to better see how the master and the branches are all connected.
