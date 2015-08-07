@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, Git will be able to track changes in that directory. However, you still 
+need to make a commit in order to start the tracking of files in that directory. Initializing a repository 
+is required for being able to track changes in files using Git. 
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area stages files to be grouped together for a commit.
+Allows you group more than one file together to make a commit, this is useful
+when one file is related in some way to another file. Making it so changes in
+one file could make an impact on another file, therefore you'd want to make a 
+commit with both of these files together. 
+
