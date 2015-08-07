@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+much easier to find by comparing two versions programmtically then trying to
+do the comparison manually
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Allow you to go back to any point of time in your file's history to see what
+you have altered instead of trying to remember every step in the file's history
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pros-- you have control over when you choose to commit
+Cons-- you may forget to commit and when you remember to many changes may have 
+taken place between the old version and the new commit
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is designed with programmers in mind where it is common for more then one file
+and file type to make up a program or application. 
+
+Google Docs and the like have been designed with the "office worker" in mind where
+it is much more common to be using MS Office software like Word, PP, or Excel which
+contain all of the information you'd need in one document.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use the log to view the git ids of different commits and then use those
+IDS to determine the changes between two commits by use the diff command
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Using version control you can feel more confident to try new things knowing that
+you're not go to have to start over if there is a major issue, as you can always
+go back to the last known working version of your project
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
