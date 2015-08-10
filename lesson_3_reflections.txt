@@ -4,3 +4,7 @@ When working on multiple machines, it would be better to have a remote repositor
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Then you can control what changes are sent to your remote respository, which you can make sure the changes pushed to the respository have a logical sense versus having Git automatically do this.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is a clone done on GitHub of an existing respository. 
+A clone is a copy of an existing respository, which can be local or on GitHub. 
+A branch is a separate version of a respository which can allow you to experiment or work on additional features to a project without disturbing the master set of files for your project.
