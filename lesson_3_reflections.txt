@@ -1,1 +1,6 @@
 When would you want to create a remote respository rather than keeping all your work local?
+When working on multiple machines, it would be better to have a remote repository that stores your work. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Then you can control what changes are sent to your remote respository, which you can make sure the changes pushed to the respository have a logical sense versus having Git automatically do this.
+
